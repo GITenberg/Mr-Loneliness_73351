@@ -1,5 +1,8 @@
 _repo: Mr-Loneliness_73351
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73351-h/images/cover.jpg
 creator:
   author:
     agent_name: Slesar, Henry
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28398
     wikipedia: http://en.wikipedia.org/wiki/Henry_Slesar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73351#Mr-Loneliness
 gutenberg_issued: '2024-04-07'
 gutenberg_type: Text
 identifiers:
